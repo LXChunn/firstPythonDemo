@@ -1,2 +1,2 @@
-# firstPythonDemo
-python学习
+# pythonTrainingPro
+Record the training practice in the python learning
